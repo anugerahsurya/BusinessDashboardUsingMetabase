@@ -66,7 +66,7 @@ Buka terminal pada direktori yang sama dengan tempat Anda meng-clone repository 
 
 # 5. Jalankan Proses Prediksi:
 Ketikkan perintah berikut pada terminal untuk menjalankan proses prediksi:
-     $ python prediksiAttrition.py
+     $ python3 prediksiAttrition.py
 ```
 
 3. Setup Dashboard Metabase
